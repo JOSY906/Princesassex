@@ -1963,3 +1963,30 @@ Repurposed Structures: Failed to create valid structure with all required pieces
 [23Feb2025 20:56:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Knowledge of Death]
 [23Feb2025 20:56:16.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Ashes 'n Bones]
 [23Feb2025 20:56:30.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Knowledge raises the soul]
+[23Feb2025 21:01:03.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Luscious Surroundings]
+[23Feb2025 21:02:03.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oyasumi_Jos lost connection: Disconnected
+[23Feb2025 21:02:03.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos left the game
+[23Feb2025 21:02:19.906] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cec22e6
+[23Feb2025 21:02:19.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oyasumi_Jos[/127.193.117.142:44167] logged in with entity id 27259 at (276.1560497426963, 88.0, 14.05967333829309)
+[23Feb2025 21:02:19.941] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Oyasumi_Jos
+[23Feb2025 21:02:19.941] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Oyasumi_Jos
+[23Feb2025 21:02:19.941] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Oyasumi_Jos
+[23Feb2025 21:02:19.942] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Oyasumi_Jos
+[23Feb2025 21:02:19.943] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Oyasumi_Jos
+[23Feb2025 21:02:19.944] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Oyasumi_Jos
+[23Feb2025 21:02:19.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Oyasumi_Jos
+[23Feb2025 21:02:20.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos joined the game
+[23Feb2025 21:02:20.198] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Oyasumi_Jos
+[23Feb2025 21:03:45.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oyasumi_Jos lost connection: Disconnected
+[23Feb2025 21:03:45.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos left the game
+[23Feb2025 21:07:25.310] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@682ba080
+[23Feb2025 21:07:25.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oyasumi_Jos[/127.193.117.142:45095] logged in with entity id 28240 at (276.1560497426963, 88.0, 14.05967333829309)
+[23Feb2025 21:07:25.343] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Oyasumi_Jos
+[23Feb2025 21:07:25.343] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Oyasumi_Jos
+[23Feb2025 21:07:25.343] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Oyasumi_Jos
+[23Feb2025 21:07:25.343] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Oyasumi_Jos
+[23Feb2025 21:07:25.345] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Oyasumi_Jos
+[23Feb2025 21:07:25.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Oyasumi_Jos
+[23Feb2025 21:07:25.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Oyasumi_Jos
+[23Feb2025 21:07:25.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos joined the game
+[23Feb2025 21:07:25.617] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Oyasumi_Jos
