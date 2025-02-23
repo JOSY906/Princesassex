@@ -2092,3 +2092,29 @@ Repurposed Structures: Failed to create valid structure with all required pieces
 [23Feb2025 21:27:27.384] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Cheese E Piloza the Magical'/37135, l='ServerLevel[world]', x=256.73, y=-45.00, z=-118.60] died: Cheese E Piloza the Magical was slain by Oyasumi_Jos
 [23Feb2025 21:27:33.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has completed the challenge [He Wasn't So Strong]
 [23Feb2025 21:28:03.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Magic Writing]
+[23Feb2025 21:29:54.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Hollow Solids]
+[23Feb2025 21:31:19.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [How'd You Get This?]
+[23Feb2025 21:31:50.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=-46, z=-49} BlockPos{x=334, y=-45, z=-48}
+[23Feb2025 21:32:13.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Darla the Magical'/38437, l='ServerLevel[world]', x=373.17, y=89.00, z=288.67] died: Darla the Magical was slain by FOXY_116
+[23Feb2025 21:32:14.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has completed the challenge [He Wasn't So Strong]
+[23Feb2025 21:32:15.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=322, y=-42, z=-51} BlockPos{x=322, y=-41, z=-50}
+[23Feb2025 21:32:52.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Knowledge of Death]
+[23Feb2025 21:32:52.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Ashes 'n Bones]
+[23Feb2025 21:33:28.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Tunnel Treasures]
+[23Feb2025 21:35:22.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JkO lost connection: Disconnected
+[23Feb2025 21:35:22.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO left the game
+[23Feb2025 21:35:41.064] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@63a20bfb
+[23Feb2025 21:35:41.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JkO[/127.78.120.68:50507] logged in with entity id 42377 at (371.8292890648643, 5.0, 378.57324381028747)
+[23Feb2025 21:35:41.095] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JkO
+[23Feb2025 21:35:41.095] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JkO
+[23Feb2025 21:35:41.096] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JkO
+[23Feb2025 21:35:41.096] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JkO
+[23Feb2025 21:35:41.097] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JkO
+[23Feb2025 21:35:41.098] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JkO
+[23Feb2025 21:35:41.098] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JkO
+[23Feb2025 21:35:41.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO joined the game
+[23Feb2025 21:35:41.385] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: JkO
+[23Feb2025 21:36:04.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Tunnel Treasures]
+[23Feb2025 21:36:19.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [The First Explosion (of many?)]
+[23Feb2025 21:37:25.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Barrel Booty]
+[23Feb2025 21:38:51.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Sneak 100]
