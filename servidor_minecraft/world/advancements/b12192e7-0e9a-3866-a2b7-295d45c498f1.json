@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2025-02-23 21:10:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/industrial_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-02-23 19:41:34 +0000"
@@ -188,6 +194,12 @@
   "cfm:recipes/cfm/mangrove_mail_box": {
     "criteria": {
       "has_chest": "2025-02-23 20:57:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-23 21:11:34 +0000"
     },
     "done": true
   },
@@ -4249,6 +4261,7 @@
       "minecraft:snowy_slopes": "2025-02-23 19:48:13 +0000",
       "minecraft:sunflower_plains": "2025-02-23 19:45:06 +0000",
       "minecraft:river": "2025-02-23 19:46:00 +0000",
+      "minecraft:deep_dark": "2025-02-23 21:11:34 +0000",
       "minecraft:plains": "2025-02-23 19:22:33 +0000"
     },
     "done": false
