@@ -2150,3 +2150,16 @@ Repurposed Structures: Failed to create valid structure with all required pieces
 [23Feb2025 21:53:38.518] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Oyasumi_Jos
 [23Feb2025 21:55:14.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/47569, l='ServerLevel[world]', x=238.49, y=102.31, z=340.30] died, message: 'Nitwit was slain by Zombie'
 [23Feb2025 21:57:39.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Quite the Renovation]
+[23Feb2025 22:04:57.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has reached the goal [Strong or Careful]
+[23Feb2025 22:04:57.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos fell from a high place
+[23Feb2025 22:04:57.633] [Server thread/INFO] [tombstone/]: The player Oyasumi_Jos has successfully been saved
+[23Feb2025 22:04:58.914] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[23Feb2025 22:08:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos was shot by Skeleton
+[23Feb2025 22:08:06.903] [Server thread/INFO] [tombstone/]: The player Oyasumi_Jos has successfully been saved
+[23Feb2025 22:08:08.342] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[23Feb2025 22:08:20.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Penteconter]
+[23Feb2025 22:08:31.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has reached the goal [Chain Death]
+[23Feb2025 22:08:31.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos tried to swim in lava
+[23Feb2025 22:08:31.941] [Server thread/INFO] [tombstone/]: The player Oyasumi_Jos has successfully been saved
+[23Feb2025 22:08:35.259] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[23Feb2025 22:09:12.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Chest Slayer]
