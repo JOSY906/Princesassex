@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "rootsclassic:recipes/rootsclassic/rooty_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-23 20:33:47 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-02-23 19:47:32 +0000"
@@ -416,6 +422,12 @@
   "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-23 19:33:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2025-02-23 20:33:47 +0000"
     },
     "done": true
   },
@@ -755,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-23 20:25:37 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-02-23 20:14:12 +0000"
@@ -894,6 +912,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-23 20:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-23 19:33:38 +0000"
@@ -1019,6 +1043,12 @@
   "additionallanterns:recipes/additionallanterns/cobblestone_lantern": {
     "criteria": {
       "recipe_condition": "2025-02-23 19:46:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-02-23 20:30:07 +0000"
     },
     "done": true
   },
@@ -1178,6 +1208,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-02-23 20:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-02-23 20:14:12 +0000"
@@ -1334,6 +1370,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-02-23 20:33:47 +0000"
+    },
+    "done": true
+  },
   "energymeter:recipes/energymeter/meter": {
     "criteria": {
       "has_item": "2025-02-23 19:31:14 +0000"
@@ -1385,6 +1427,12 @@
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-02-23 20:34:47 +0000"
     },
     "done": true
   },
@@ -1743,9 +1791,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-02-23 20:32:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-02-23 20:18:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-23 20:33:47 +0000"
     },
     "done": true
   },
@@ -1791,6 +1851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-23 20:26:27 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
     "criteria": {
       "has_leggings": "2025-02-23 19:31:14 +0000",
@@ -1817,6 +1883,12 @@
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_log": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-02-23 20:30:07 +0000"
     },
     "done": true
   },
@@ -1937,6 +2009,12 @@
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2025-02-23 19:47:29 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-02-23 20:34:54 +0000"
     },
     "done": true
   },
@@ -2108,6 +2186,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/snow_block": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:26:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-02-23 19:33:08 +0000"
@@ -2186,6 +2270,12 @@
   "ftbic:recipes/ftbic/macerating/raw_materials/iron_to_dust": {
     "criteria": {
       "has_item": "2025-02-23 19:37:06 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/building_blocks/compressing/ice": {
+    "criteria": {
+      "has_item": "2025-02-23 20:26:27 +0000"
     },
     "done": true
   },
@@ -2339,6 +2429,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/powerful_earth_shard_from_earth_shards": {
+    "criteria": {
+      "has_earth_shard": "2025-02-23 20:32:17 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/sturdy_repair_kit": {
     "criteria": {
       "has_item": "2025-02-23 19:41:34 +0000"
@@ -2360,6 +2456,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-02-23 19:22:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2025-02-23 20:30:07 +0000"
     },
     "done": true
   },
@@ -2892,7 +2994,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-02-23 19:46:03 +0000"
+      "minecraft:spider": "2025-02-23 19:46:03 +0000",
+      "minecraft:husk": "2025-02-23 20:34:47 +0000",
+      "minecraft:zombie": "2025-02-23 20:30:36 +0000"
     },
     "done": false
   },
@@ -2959,6 +3063,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-02-23 19:33:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-02-23 20:30:07 +0000"
     },
     "done": true
   },
@@ -3311,6 +3421,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/snow": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:26:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-02-23 19:41:34 +0000"
@@ -3492,6 +3608,12 @@
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_cushion": "2025-02-23 20:14:13 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/earth_shard": {
+    "criteria": {
+      "has_earth_shard": "2025-02-23 20:32:17 +0000"
     },
     "done": true
   },
@@ -3693,6 +3815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-23 20:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-02-23 20:14:13 +0000"
@@ -3710,6 +3838,13 @@
       "has_birch": "2025-02-23 19:31:14 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beetroot_soup": "2025-02-23 20:33:46 +0000",
+      "bread": "2025-02-23 20:33:56 +0000"
+    },
+    "done": false
   },
   "additionallanterns:recipes/additionallanterns/quartz_lantern": {
     "criteria": {
@@ -4048,6 +4183,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-23 20:34:47 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/fishing_line": {
     "criteria": {
       "has_items": "2025-02-23 19:31:14 +0000"
@@ -4063,6 +4204,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-23 20:16:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-23 20:33:46 +0000"
     },
     "done": true
   },
@@ -4429,6 +4576,12 @@
     },
     "done": true
   },
+  "rootsclassic:recipes/rootsclassic/fruit_salad": {
+    "criteria": {
+      "has_bowl": "2025-02-23 20:33:46 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-23 19:31:14 +0000"
@@ -4513,6 +4666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-23 20:26:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-02-23 20:14:12 +0000"
@@ -4564,6 +4723,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-02-23 20:16:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-02-23 20:30:07 +0000"
     },
     "done": true
   },

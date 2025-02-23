@@ -125,6 +125,18 @@
     },
     "done": true
   },
+  "dimstorage:recipes/dimstorage_tab/dim_wall": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-23 20:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-23 20:28:45 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/speedboat": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:19:42 +0000"
@@ -197,6 +209,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/roasted_sunflower_seeds": {
+    "criteria": {
+      "has_sunflower": "2025-02-23 20:27:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-23 19:44:19 +0000"
@@ -242,6 +260,12 @@
   "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-23 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "charginggadgets:recipes/charginggadgets/charging_station": {
+    "criteria": {
+      "has_diamonds": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -467,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_ether_planks": {
     "criteria": {
       "has_ingredient": "2025-02-23 19:21:06 +0000"
@@ -569,6 +599,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:oil_bucket": {
+    "criteria": {
+      "0": "2025-02-23 20:33:51 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_pork": "2025-02-23 20:23:39 +0000"
@@ -668,6 +704,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-02-23 19:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-23 20:28:45 +0000"
     },
     "done": true
   },
@@ -848,6 +890,12 @@
   "framedblocks:recipes/framed_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-02-23 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/jukebox": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -1103,6 +1151,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/utilitix/diamond_shears": {
+    "criteria": {
+      "criterion0": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:19:42 +0000"
@@ -1202,6 +1256,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-23 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/diamond_chain": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -1334,6 +1394,12 @@
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/log": {
     "criteria": {
       "has_item": "2025-02-23 19:21:47 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/ender_dust": {
+    "criteria": {
+      "has_item": "2025-02-23 20:35:19 +0000"
     },
     "done": true
   },
@@ -1820,6 +1886,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/teleport_pad": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-23 20:35:19 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
       "has_items": "2025-02-23 19:21:06 +0000"
@@ -1853,6 +1925,12 @@
   "cfm:recipes/cfm/birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-23 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "ae2additions:recipes/ae2additions/super_cell_housing": {
+    "criteria": {
+      "has_item": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -1970,9 +2048,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
     "criteria": {
       "has_items": "2025-02-23 19:21:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-02-23 20:28:45 +0000"
     },
     "done": true
   },
@@ -2009,6 +2099,12 @@
   "alchemistry:recipes/dissolver/cobbled_deepslate_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -2057,6 +2153,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:19:42 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/decorations/block": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 20:35:19 +0000"
     },
     "done": true
   },
@@ -2199,6 +2301,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_items": "2025-02-23 19:21:05 +0000"
@@ -2319,6 +2427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/gloom_o_lantern": {
     "criteria": {
       "has_torch": "2025-02-23 19:29:14 +0000"
@@ -2340,6 +2454,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 19:30:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/diamond_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -2412,6 +2532,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-02-23 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -2601,6 +2727,12 @@
     },
     "done": true
   },
+  "wirelesschargers:recipes/wirelesschargers/basic_wireless_player_charger": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 20:35:19 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-02-23 19:21:06 +0000"
@@ -2628,6 +2760,12 @@
   "rftoolsbase:recipes/rftoolsbase/crafting_card": {
     "criteria": {
       "crafter": "2025-02-23 19:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -2756,6 +2894,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/diamond_shard": {
+    "criteria": {
+      "has_item": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/rolling/ingots/iron_to_iron_plate": {
     "criteria": {
       "has_item": "2025-02-23 19:30:11 +0000"
@@ -2828,6 +2972,12 @@
     },
     "done": true
   },
+  "allthetweaks:recipes/allthetweaks/ender_pearl_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-23 20:35:19 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-02-23 19:30:11 +0000"
@@ -2837,6 +2987,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-23 19:44:39 +0000"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/decorations/basic_collector": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 20:35:19 +0000"
     },
     "done": true
   },
@@ -3264,6 +3420,7 @@
     "criteria": {
       "byg:prairie": "2025-02-23 19:42:30 +0000",
       "byg:allium_fields": "2025-02-23 20:23:29 +0000",
+      "byg:temperate_grove": "2025-02-23 20:27:16 +0000",
       "byg:orchard": "2025-02-23 19:47:09 +0000",
       "byg:shattered_glacier": "2025-02-23 19:47:30 +0000",
       "byg:howling_peaks": "2025-02-23 20:15:01 +0000"
@@ -3325,6 +3482,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/diamond_from_shards": {
+    "criteria": {
+      "has_item": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/macerating/raw_materials/iron_to_dust": {
     "criteria": {
       "has_item": "2025-02-23 19:29:10 +0000"
@@ -3334,6 +3497,12 @@
   "cfm:recipes/cfm/birch_mail_box": {
     "criteria": {
       "has_chest": "2025-02-23 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_ingot": {
+    "criteria": {
+      "tnt": "2025-02-23 20:30:19 +0000"
     },
     "done": true
   },
@@ -3385,6 +3554,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/stick": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:22:22 +0000"
@@ -3427,6 +3602,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_upgrade": {
+    "criteria": {
+      "pearl": "2025-02-23 20:35:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-02-23 19:44:18 +0000"
@@ -3445,9 +3626,21 @@
     },
     "done": true
   },
+  "entangled:recipes/misc/item": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 20:35:19 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/cooked_mutton": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:21:11 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/seeds": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:28:45 +0000"
     },
     "done": true
   },
@@ -3496,6 +3689,12 @@
   "additionallanterns:recipes/additionallanterns/cobbled_deepslate_chain": {
     "criteria": {
       "recipe_condition": "2025-02-23 19:41:33 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/diamond_block": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -3580,6 +3779,12 @@
   "silentgear:recipes/silentgear/sturdy_repair_kit": {
     "criteria": {
       "has_item": "2025-02-23 19:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-23 20:28:45 +0000"
     },
     "done": true
   },
@@ -3678,6 +3883,12 @@
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-02-23 19:21:06 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2025-02-23 20:35:19 +0000"
     },
     "done": true
   },
@@ -4187,6 +4398,12 @@
     },
     "done": true
   },
+  "shrink:recipes/shrink/shrinking_device": {
+    "criteria": {
+      "has_enderpearls": "2025-02-23 20:35:19 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/item_life_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-23 19:50:14 +0000"
@@ -4232,6 +4449,18 @@
   "securitycraft:recipes/securitycraft/portable_radar": {
     "criteria": {
       "has_redstone": "2025-02-23 19:50:15 +0000"
+    },
+    "done": true
+  },
+  "rootsclassic:recipes/rootsclassic/attuned_standing_stone": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-02-23 20:27:29 +0000"
     },
     "done": true
   },
@@ -4417,16 +4646,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-23 20:20:11 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-02-23 20:28:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-23 19:36:33 +0000",
+      "minecraft:creeper": "2025-02-23 20:29:03 +0000",
       "minecraft:husk": "2025-02-23 19:40:24 +0000",
+      "minecraft:enderman": "2025-02-23 20:35:16 +0000",
       "minecraft:zombie": "2025-02-23 19:22:40 +0000"
     },
     "done": false
@@ -4494,6 +4737,12 @@
   "alltheores:recipes/alltheores/iron_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-02-23 19:30:11 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-02-23 20:29:56 +0000"
     },
     "done": true
   },
@@ -4590,6 +4839,12 @@
   "cfm:recipes/cfm/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2025-02-23 19:21:47 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_block": {
+    "criteria": {
+      "tnt": "2025-02-23 20:30:19 +0000"
     },
     "done": true
   },
@@ -5049,6 +5304,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/diamond_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/gray_cushion": {
     "criteria": {
       "has_cushion": "2025-02-23 19:25:52 +0000"
@@ -5058,6 +5319,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-02-23 19:22:45 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/wheat_flour": {
+    "criteria": {
+      "tnt": "2025-02-23 20:30:19 +0000"
     },
     "done": true
   },
@@ -5263,9 +5530,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-02-23 19:28:01 +0000",
+      "minecraft:birch_forest": "2025-02-23 20:35:03 +0000",
       "minecraft:river": "2025-02-23 19:27:49 +0000",
       "minecraft:stony_shore": "2025-02-23 19:26:33 +0000",
       "minecraft:flower_forest": "2025-02-23 19:28:52 +0000",
+      "minecraft:meadow": "2025-02-23 20:27:18 +0000",
       "minecraft:plains": "2025-02-23 19:19:45 +0000"
     },
     "done": false
@@ -5403,6 +5672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-02-23 19:44:39 +0000"
@@ -5427,9 +5702,21 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/melon": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:28:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-02-23 19:48:12 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/power_core1": {
+    "criteria": {
+      "core": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -5583,6 +5870,12 @@
     },
     "done": true
   },
+  "dimstorage:recipes/dimstorage_tab/dim_core": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_oak_planks": {
     "criteria": {
       "has_ingredient": "2025-02-23 19:22:22 +0000"
@@ -5598,6 +5891,12 @@
   "cfm:recipes/cfm/spruce_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-02-23 19:45:17 +0000"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_empty": {
+    "criteria": {
+      "has_diamonds": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -5904,7 +6203,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-02-23 19:22:12 +0000",
-      "bread": "2025-02-23 19:49:55 +0000"
+      "bread": "2025-02-23 19:49:55 +0000",
+      "melon_slice": "2025-02-23 20:28:48 +0000"
     },
     "done": false
   },
@@ -6316,6 +6616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_redwood_planks": {
     "criteria": {
       "has_ingredient": "2025-02-23 19:21:06 +0000"
@@ -6338,6 +6644,12 @@
     "criteria": {
       "has_fishing_rod": "2025-02-23 19:21:06 +0000",
       "has_fillet_knife": "2025-02-23 19:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -6443,6 +6755,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-23 19:27:16 +0000"
@@ -6470,6 +6788,12 @@
   "corail_woodcutter:recipes/from_byg_witch_hazel_planks": {
     "criteria": {
       "has_ingredient": "2025-02-23 19:21:05 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/melon_slice": {
+    "criteria": {
+      "has_mini_melon": "2025-02-23 20:28:41 +0000"
     },
     "done": true
   },
@@ -6546,6 +6870,18 @@
     },
     "done": true
   },
+  "ae2additions:recipes/ae2additions/blocks/wireless_transceiver": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/gems/diamond_to_dust": {
+    "criteria": {
+      "has_item": "2025-02-23 20:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-02-23 19:21:11 +0000"
@@ -6555,6 +6891,12 @@
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2025-02-23 19:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -6765,6 +7107,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-02-23 19:45:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/diamond_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -7022,6 +7370,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-23 20:28:45 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/crude_furnace": {
     "criteria": {
       "criterion1": "2025-02-23 19:24:38 +0000"
@@ -7109,6 +7463,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-02-23 19:50:27 +0000"
+    },
+    "done": true
+  },
+  "wirelesschargers:recipes/wirelesschargers/basic_wireless_block_charger": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 20:35:19 +0000"
     },
     "done": true
   },
@@ -7286,6 +7646,12 @@
     },
     "done": true
   },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "flax_seeds": "2025-02-23 20:27:33 +0000"
+    },
+    "done": false
+  },
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2025-02-23 19:30:11 +0000"
@@ -7295,6 +7661,12 @@
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2025-02-23 19:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },
@@ -7319,6 +7691,12 @@
   "alchemistry:recipes/dissolver/iron_nugget": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:30:11 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shapeless/energy_crystal": {
+    "criteria": {
+      "has_item": "2025-02-23 20:30:21 +0000"
     },
     "done": true
   },

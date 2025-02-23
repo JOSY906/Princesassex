@@ -1880,3 +1880,34 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [23Feb2025 20:25:32.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has reached the goal [Worthy Equipment]
 [23Feb2025 20:25:37.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Isn't It Iron Pick]
 [23Feb2025 20:27:17.745] [Worker-Main-5/WARN] [ModernFix/]: The namespace ad_astra contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[23Feb2025 20:28:14.653] [Worker-Main-7/WARN] [ModernFix/]: The namespace ctov contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[23Feb2025 20:28:18.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4023ms or 80 ticks behind
+[23Feb2025 20:29:25.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[23Feb2025 20:29:56.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Far From Perfect]
+[23Feb2025 20:30:11.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2961ms or 59 ticks behind
+[23Feb2025 20:30:21.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Diamonds!]
+[23Feb2025 20:32:59.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has reached the goal [Flawless Crystals]
+[23Feb2025 20:33:11.546] [Worker-Main-7/ERROR] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: 
+-------------------------------------------------------------------
+Repurposed Structures: Failed to create valid structure with all required pieces starting from this pool file: repurposed_structures:cities/overworld/start_pool. Required pieces failed to generate the required amount are: [repurposed_structures:cities/overworld/fat_tower_top=2]
+  This can happen if a structure has a required piece but the structure size is set too low.
+  However, this is most likely caused by a structure unable to spawn properly due to hitting the world's min y or max y build thresholds or a broken RS datapack.
+  Try teleporting to: BlockPos{x=4535, y=136, z=407} and see if the structure generated fine with the required structure piece or if it is indeed missing it.
+  Please report the issue to Repurposed Structures's dev with latest.log file if the structure is not cut off by world min/max y build thresholds.
+
+
+[23Feb2025 20:33:51.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Black Gold]
+[23Feb2025 20:34:40.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[23Feb2025 20:34:47.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Primejon the Scary'/15211, l='ServerLevel[world]', x=210.09, y=105.00, z=336.22] died: Primejon the Scary was slain by JkO
+[23Feb2025 20:34:47.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Knowledge of Death]
+[23Feb2025 20:34:47.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [A Strange Grave Dust]
+[23Feb2025 20:34:54.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has completed the challenge [He Wasn't So Strong]
+[23Feb2025 20:35:00.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[23Feb2025 20:35:18.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2902ms or 58 ticks behind
+[23Feb2025 20:35:54.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Suit Up]
+[23Feb2025 20:36:05.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[23Feb2025 20:36:18.677] [Worker-Main-6/WARN] [ModernFix/]: The namespace hexerei contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[23Feb2025 20:36:22.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[23Feb2025 20:36:26.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FOXY_116 lost connection: Disconnected
+[23Feb2025 20:36:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 left the game
+[23Feb2025 20:37:02.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Chest Slayer]
