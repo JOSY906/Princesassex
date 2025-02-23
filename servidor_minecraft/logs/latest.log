@@ -1788,3 +1788,72 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [23Feb2025 19:30:29.059] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: JkO
 [23Feb2025 19:33:38.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Stone Age]
 [23Feb2025 19:34:00.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Getting an Upgrade]
+[23Feb2025 19:36:28.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Not Today, Thank You]
+[23Feb2025 19:37:47.595] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4519d65d
+[23Feb2025 19:37:47.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oyasumi_Jos[/127.193.117.142:50545] logged in with entity id 5832 at (-14.914930422893514, 95.0, -140.52774926678475)
+[23Feb2025 19:37:47.629] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Oyasumi_Jos
+[23Feb2025 19:37:47.629] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Oyasumi_Jos
+[23Feb2025 19:37:47.629] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Oyasumi_Jos
+[23Feb2025 19:37:47.630] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Oyasumi_Jos
+[23Feb2025 19:37:47.631] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Oyasumi_Jos
+[23Feb2025 19:37:47.632] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Oyasumi_Jos
+[23Feb2025 19:37:47.632] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Oyasumi_Jos
+[23Feb2025 19:37:47.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos joined the game
+[23Feb2025 19:37:47.926] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Oyasumi_Jos
+[23Feb2025 19:38:02.376] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d5dd27e[id=<null>,name=JkO,properties={},legacy=false] (/127.78.120.68:55711) lost connection: Disconnected
+[23Feb2025 19:38:23.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JkO lost connection: You logged in from another location
+[23Feb2025 19:38:23.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO left the game
+[23Feb2025 19:38:23.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JkO[/127.78.120.68:47441] logged in with entity id 6033 at (53.56193032131353, 85.0, -83.6857331995102)
+[23Feb2025 19:38:23.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JkO
+[23Feb2025 19:38:23.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JkO
+[23Feb2025 19:38:23.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JkO
+[23Feb2025 19:38:23.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JkO
+[23Feb2025 19:38:23.887] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JkO
+[23Feb2025 19:38:23.888] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JkO
+[23Feb2025 19:38:23.889] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JkO
+[23Feb2025 19:38:23.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO joined the game
+[23Feb2025 19:38:24.099] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: JkO
+[23Feb2025 19:38:25.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Isn't It Iron Pick]
+[23Feb2025 19:38:44.442] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[23Feb2025 19:38:44.443] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[23Feb2025 19:38:53.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Suit Up]
+[23Feb2025 19:39:02.970] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[23Feb2025 19:39:02.971] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[23Feb2025 19:39:24.498] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[23Feb2025 19:39:24.499] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[23Feb2025 19:39:29.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4676ms or 93 ticks behind
+[23Feb2025 19:39:43.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JkO lost connection: You logged in from another location
+[23Feb2025 19:39:43.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO left the game
+[23Feb2025 19:39:43.353] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a6cf0f4
+[23Feb2025 19:39:43.431] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Feb2025 19:39:43.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JkO[/127.78.120.68:44745] logged in with entity id 6636 at (53.56193032131353, 85.0, -83.6857331995102)
+[23Feb2025 19:39:43.436] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JkO
+[23Feb2025 19:39:43.436] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JkO
+[23Feb2025 19:39:43.436] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JkO
+[23Feb2025 19:39:43.437] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JkO
+[23Feb2025 19:39:43.438] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JkO
+[23Feb2025 19:39:43.439] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JkO
+[23Feb2025 19:39:43.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JkO
+[23Feb2025 19:39:43.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO joined the game
+[23Feb2025 19:39:43.730] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: JkO
+[23Feb2025 19:40:23.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Apothic Affixes]
+[23Feb2025 19:40:23.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has reached the goal [Worthy Equipment]
+[23Feb2025 19:40:32.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Amateur Archaeologist]
+[23Feb2025 19:41:26.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Isn't It Iron Pick]
+[23Feb2025 19:41:35.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Acquire Hardware]
+[23Feb2025 19:42:38.140] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=283, y=38, z=9} but found not block entity block Block{minecraft:air} at location
+[23Feb2025 19:42:38.140] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=283, y=38, z=9}
+[23Feb2025 19:42:51.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Luscious Surroundings]
+[23Feb2025 19:43:03.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Not a Diamond]
+[23Feb2025 19:43:19.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has reached the goal [Flawless Crystals]
+[23Feb2025 19:43:30.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement ['X' Marks the Spot]
+[23Feb2025 19:43:35.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 was blown up by Primed TNT
+[23Feb2025 19:43:35.181] [Server thread/INFO] [tombstone/]: The player FOXY_116 has successfully been saved
+[23Feb2025 19:43:36.598] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[23Feb2025 19:44:21.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement ['X' Marks the Spot]
+[23Feb2025 19:44:25.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Not a Diamond]
+[23Feb2025 19:44:27.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos was blown up by Primed TNT
+[23Feb2025 19:44:27.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Your First Grave]
+[23Feb2025 19:44:27.809] [Server thread/INFO] [tombstone/]: The player Oyasumi_Jos has successfully been saved
+[23Feb2025 19:44:29.402] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[23Feb2025 19:44:43.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Sky of Beginning]
