@@ -2198,3 +2198,7 @@ Repurposed Structures: Failed to create valid structure with all required pieces
 [23Feb2025 22:27:56.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Hot Stuff]
 [23Feb2025 22:30:10.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oyasumi_Jos lost connection: Disconnected
 [23Feb2025 22:30:10.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos left the game
+[23Feb2025 22:32:11.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [We Need to Go Deeper]
+[23Feb2025 22:32:11.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
+[23Feb2025 22:34:49.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FOXY_116 lost connection: Disconnected
+[23Feb2025 22:34:49.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 left the game
