@@ -1752,3 +1752,39 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [23Feb2025 19:23:57.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos joined the game
 [23Feb2025 19:23:57.697] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Oyasumi_Jos
 [23Feb2025 19:24:38.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Stone Age]
+[23Feb2025 19:24:48.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Getting an Upgrade]
+[23Feb2025 19:26:12.322] [Worker-Main-14/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[23Feb2025 19:26:32.705] [Worker-Main-12/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[23Feb2025 19:27:11.224] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c71480d
+[23Feb2025 19:27:11.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JkO[/127.78.120.68:39465] logged in with entity id 3631 at (32.5, 94.0, -57.5)
+[23Feb2025 19:27:11.248] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JkO
+[23Feb2025 19:27:11.248] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JkO
+[23Feb2025 19:27:11.248] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JkO
+[23Feb2025 19:27:11.248] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JkO
+[23Feb2025 19:27:11.250] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JkO
+[23Feb2025 19:27:11.251] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JkO
+[23Feb2025 19:27:11.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JkO
+[23Feb2025 19:27:11.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO joined the game
+[23Feb2025 19:27:11.478] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: JkO
+[23Feb2025 19:27:50.841] [Worker-Main-21/WARN] [ModernFix/]: The namespace ctov contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[23Feb2025 19:27:51.530] [Worker-Main-21/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[23Feb2025 19:28:06.279] [Worker-Main-12/WARN] [ModernFix/]: The namespace blue_skies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[23Feb2025 19:28:49.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oyasumi_Jos lost connection: Disconnected
+[23Feb2025 19:28:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos left the game
+[23Feb2025 19:30:11.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Acquire Hardware]
+[23Feb2025 19:30:11.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JkO lost connection: Timed out
+[23Feb2025 19:30:11.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO left the game
+[23Feb2025 19:30:11.728] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Feb2025 19:30:28.817] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f24be6e
+[23Feb2025 19:30:28.839] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JkO[/127.78.120.68:59171] logged in with entity id 4343 at (33.88018035980358, 94.0, -56.69233411336153)
+[23Feb2025 19:30:28.841] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JkO
+[23Feb2025 19:30:28.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JkO
+[23Feb2025 19:30:28.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JkO
+[23Feb2025 19:30:28.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JkO
+[23Feb2025 19:30:28.843] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JkO
+[23Feb2025 19:30:28.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JkO
+[23Feb2025 19:30:28.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JkO
+[23Feb2025 19:30:28.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO joined the game
+[23Feb2025 19:30:29.059] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: JkO
+[23Feb2025 19:33:38.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Stone Age]
+[23Feb2025 19:34:00.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Getting an Upgrade]
