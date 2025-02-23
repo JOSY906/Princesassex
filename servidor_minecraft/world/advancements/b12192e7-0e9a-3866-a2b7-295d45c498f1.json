@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-23 22:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-02-23 20:46:50 +0000"
@@ -1588,6 +1594,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/powerful_earth_shard": {
+    "criteria": {
+      "has_powerful_earth_shard": "2025-02-23 22:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-23 19:33:03 +0000"
@@ -2534,6 +2546,12 @@
   "alltheores:recipes/alltheores/diamond_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-02-23 21:44:54 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/earth_shard": {
+    "criteria": {
+      "has_powerful_earth_shard": "2025-02-23 22:14:23 +0000"
     },
     "done": true
   },
@@ -5568,6 +5586,7 @@
       "minecraft:sunflower_plains": "2025-02-23 19:45:06 +0000",
       "minecraft:river": "2025-02-23 19:46:00 +0000",
       "minecraft:deep_dark": "2025-02-23 21:11:34 +0000",
+      "minecraft:meadow": "2025-02-23 22:09:16 +0000",
       "minecraft:plains": "2025-02-23 19:22:33 +0000"
     },
     "done": false

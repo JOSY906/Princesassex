@@ -1924,6 +1924,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-02-23 22:08:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_grill": {
     "criteria": {
       "has_iron": "2025-02-23 19:30:11 +0000"

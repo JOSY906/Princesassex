@@ -2163,3 +2163,19 @@ Repurposed Structures: Failed to create valid structure with all required pieces
 [23Feb2025 22:08:31.941] [Server thread/INFO] [tombstone/]: The player Oyasumi_Jos has successfully been saved
 [23Feb2025 22:08:35.259] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [23Feb2025 22:09:12.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Chest Slayer]
+[23Feb2025 22:09:58.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oyasumi_Jos lost connection: Disconnected
+[23Feb2025 22:09:58.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos left the game
+[23Feb2025 22:13:35.162] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ea28b7
+[23Feb2025 22:13:35.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oyasumi_Jos[/127.193.117.142:57033] logged in with entity id 56189 at (31.5, 87.0, -69.5)
+[23Feb2025 22:13:35.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Oyasumi_Jos
+[23Feb2025 22:13:35.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Oyasumi_Jos
+[23Feb2025 22:13:35.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Oyasumi_Jos
+[23Feb2025 22:13:35.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Oyasumi_Jos
+[23Feb2025 22:13:35.196] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Oyasumi_Jos
+[23Feb2025 22:13:35.197] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Oyasumi_Jos
+[23Feb2025 22:13:35.197] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Oyasumi_Jos
+[23Feb2025 22:13:35.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos joined the game
+[23Feb2025 22:13:35.443] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Oyasumi_Jos
+[23Feb2025 22:16:36.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has reached the goal [Bone Crusher]
+[23Feb2025 22:18:36.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [How'd You Get This?]
+[23Feb2025 22:20:03.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
