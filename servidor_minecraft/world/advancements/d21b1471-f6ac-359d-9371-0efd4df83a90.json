@@ -3603,7 +3603,8 @@
       "byg:prairie": "2025-02-23 20:09:42 +0000",
       "byg:orchard": "2025-02-23 20:07:20 +0000",
       "byg:shattered_glacier": "2025-02-23 20:10:18 +0000",
-      "byg:howling_peaks": "2025-02-23 20:10:13 +0000"
+      "byg:howling_peaks": "2025-02-23 20:10:13 +0000",
+      "byg:dacite_shore": "2025-02-23 21:40:19 +0000"
     },
     "done": false
   },
@@ -4573,6 +4574,12 @@
   "corail_woodcutter:recipes/from_canopy_planks": {
     "criteria": {
       "has_ingredient": "2025-02-23 18:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-23 21:38:51 +0000"
     },
     "done": true
   },
@@ -5700,9 +5707,11 @@
       "minecraft:sunflower_plains": "2025-02-23 20:07:55 +0000",
       "minecraft:birch_forest": "2025-02-23 19:49:21 +0000",
       "minecraft:river": "2025-02-23 21:17:29 +0000",
+      "minecraft:stony_shore": "2025-02-23 21:41:20 +0000",
       "minecraft:grove": "2025-02-23 19:43:51 +0000",
       "minecraft:jagged_peaks": "2025-02-23 19:44:02 +0000",
       "minecraft:forest": "2025-02-23 19:43:14 +0000",
+      "minecraft:ocean": "2025-02-23 21:40:41 +0000",
       "minecraft:deep_dark": "2025-02-23 21:17:38 +0000",
       "minecraft:meadow": "2025-02-23 19:39:01 +0000",
       "minecraft:plains": "2025-02-23 18:43:44 +0000"
