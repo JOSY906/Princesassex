@@ -1941,3 +1941,25 @@ Repurposed Structures: Failed to create valid structure with all required pieces
 [23Feb2025 20:46:17.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 left the game
 [23Feb2025 20:46:41.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oyasumi_Jos lost connection: Disconnected
 [23Feb2025 20:46:41.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos left the game
+[23Feb2025 20:51:04.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [A Throwaway Joke]
+[23Feb2025 20:51:18.910] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2172b5f1
+[23Feb2025 20:51:18.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oyasumi_Jos[/127.193.117.142:55217] logged in with entity id 22792 at (256.69999998807907, 29.0, -13.300000011920929)
+[23Feb2025 20:51:18.947] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Oyasumi_Jos
+[23Feb2025 20:51:18.947] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Oyasumi_Jos
+[23Feb2025 20:51:18.947] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Oyasumi_Jos
+[23Feb2025 20:51:18.947] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Oyasumi_Jos
+[23Feb2025 20:51:18.948] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Oyasumi_Jos
+[23Feb2025 20:51:18.950] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Oyasumi_Jos
+[23Feb2025 20:51:18.950] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Oyasumi_Jos
+[23Feb2025 20:51:19.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos joined the game
+[23Feb2025 20:51:19.254] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Oyasumi_Jos
+[23Feb2025 20:51:57.765] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47e494b2[id=<null>,name=FOXY_116,properties={},legacy=false] (/127.31.122.37:43227) lost connection: Disconnected
+[23Feb2025 20:52:25.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Ambush]
+[23Feb2025 20:52:25.513] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Leonard'/23102, l='ServerLevel[world]', x=208.10, y=112.00, z=288.95] died: Leonard was slain by JkO
+[23Feb2025 20:52:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Ashes 'n Bones]
+[23Feb2025 20:53:53.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Not Today, Thank You]
+[23Feb2025 20:55:19.017] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Honeyed Archer'/23796, l='ServerLevel[world]', x=209.59, y=112.81, z=289.59] died: Honeyed Archer was slain by JkO
+[23Feb2025 20:55:56.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Paul the Curious'/24103, l='ServerLevel[world]', x=204.33, y=112.00, z=286.89] died: Paul the Curious was slain by JkO
+[23Feb2025 20:56:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Knowledge of Death]
+[23Feb2025 20:56:16.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Ashes 'n Bones]
+[23Feb2025 20:56:30.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Knowledge raises the soul]
