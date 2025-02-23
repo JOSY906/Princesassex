@@ -2131,3 +2131,22 @@ Repurposed Structures: Failed to create valid structure with all required pieces
 [23Feb2025 21:47:37.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [A Strange Grave Dust]
 [23Feb2025 21:47:51.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Captured!]
 [23Feb2025 21:49:25.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [A True Source of Evil]
+[23Feb2025 21:51:06.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Long Gone]
+[23Feb2025 21:51:49.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Bench mk II]
+[23Feb2025 21:51:49.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Thermal Container]
+[23Feb2025 21:51:49.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Thermal Transfer]
+[23Feb2025 21:53:18.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Feb2025 21:53:18.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: smg Hola<--[HERE]
+[23Feb2025 21:53:38.264] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@709b8a56
+[23Feb2025 21:53:38.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oyasumi_Jos[/127.193.117.142:54797] logged in with entity id 48712 at (446.53707472625945, -21.0, -340.8589430534422)
+[23Feb2025 21:53:38.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Oyasumi_Jos
+[23Feb2025 21:53:38.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Oyasumi_Jos
+[23Feb2025 21:53:38.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Oyasumi_Jos
+[23Feb2025 21:53:38.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Oyasumi_Jos
+[23Feb2025 21:53:38.297] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Oyasumi_Jos
+[23Feb2025 21:53:38.298] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Oyasumi_Jos
+[23Feb2025 21:53:38.298] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Oyasumi_Jos
+[23Feb2025 21:53:38.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos joined the game
+[23Feb2025 21:53:38.518] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Oyasumi_Jos
+[23Feb2025 21:55:14.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/47569, l='ServerLevel[world]', x=238.49, y=102.31, z=340.30] died, message: 'Nitwit was slain by Zombie'
+[23Feb2025 21:57:39.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Quite the Renovation]

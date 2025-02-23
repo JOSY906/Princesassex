@@ -2458,15 +2458,15 @@
     },
     "done": true
   },
-  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_light_r": {
-    "criteria": {
-      "has_deepslate": "2025-02-23 21:32:17 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-02-23 21:16:51 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_light_r": {
+    "criteria": {
+      "has_deepslate": "2025-02-23 21:32:17 +0000"
     },
     "done": true
   },
@@ -3717,15 +3717,15 @@
     },
     "done": true
   },
-  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_red": {
-    "criteria": {
-      "has_deepslate": "2025-02-23 21:32:17 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-02-23 21:16:51 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_red": {
+    "criteria": {
+      "has_deepslate": "2025-02-23 21:32:17 +0000"
     },
     "done": true
   },
@@ -3885,9 +3885,9 @@
     },
     "done": true
   },
-  "deepresonance:recipes/deepresonance/filter_material": {
+  "alchemistry:recipes/dissolver/diamond_block": {
     "criteria": {
-      "has_gravel": "2025-02-23 21:26:42 +0000"
+      "has_the_recipe": "2025-02-23 21:16:51 +0000"
     },
     "done": true
   },
@@ -3897,9 +3897,9 @@
     },
     "done": true
   },
-  "alchemistry:recipes/dissolver/diamond_block": {
+  "deepresonance:recipes/deepresonance/filter_material": {
     "criteria": {
-      "has_the_recipe": "2025-02-23 21:16:51 +0000"
+      "has_gravel": "2025-02-23 21:26:42 +0000"
     },
     "done": true
   },
@@ -4402,6 +4402,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/silver_ingot_from_slate_ore": {
+    "criteria": {
+      "has_item": "2025-02-23 21:55:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_cooler": {
     "criteria": {
       "has_chest": "2025-02-23 20:30:04 +0000"
@@ -4789,15 +4795,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-02-23 21:30:48 +0000"
-    },
-    "done": true
-  },
   "compactmachines:recipes/compactmachines/wall": {
     "criteria": {
       "picked_up_deepslate": "2025-02-23 21:23:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-23 21:30:48 +0000"
     },
     "done": true
   },
@@ -6867,15 +6873,15 @@
     },
     "done": true
   },
-  "alchemistry:recipes/dissolver/light_blue_concrete_powder": {
-    "criteria": {
-      "has_the_recipe": "2025-02-23 21:26:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-02-23 21:16:51 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/light_blue_concrete_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 21:26:42 +0000"
     },
     "done": true
   },
@@ -7489,6 +7495,12 @@
   "reliquary:recipes/misc/uncrafting/bone": {
     "criteria": {
       "has_rib_bone": "2025-02-23 20:29:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/silver_ingot_from_slate_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-02-23 21:55:02 +0000"
     },
     "done": true
   },
