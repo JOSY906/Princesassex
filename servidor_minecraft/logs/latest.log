@@ -1822,3 +1822,31 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [23Feb2025 20:07:20.506] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=373, y=91, z=37}
 [23Feb2025 20:07:20.507] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=374, y=89, z=38} but found not block entity block Block{minecraft:lantern}[hanging=false,waterlogged=false] at location
 [23Feb2025 20:07:20.507] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=false,waterlogged=false] but failed at location BlockPos{x=374, y=89, z=38}
+[23Feb2025 20:11:11.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Iron Torch]
+[23Feb2025 20:11:11.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Hunt and Gather]
+[23Feb2025 20:11:51.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Disme A Dozen]
+[23Feb2025 20:11:59.407] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@42865983
+[23Feb2025 20:11:59.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JkO[/127.78.120.68:33293] logged in with entity id 5633 at (57.694620397452184, 69.0, -48.406678021857836)
+[23Feb2025 20:11:59.442] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JkO
+[23Feb2025 20:11:59.442] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JkO
+[23Feb2025 20:11:59.442] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JkO
+[23Feb2025 20:11:59.442] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JkO
+[23Feb2025 20:11:59.444] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JkO
+[23Feb2025 20:11:59.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JkO
+[23Feb2025 20:11:59.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JkO
+[23Feb2025 20:11:59.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO joined the game
+[23Feb2025 20:11:59.798] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: JkO
+[23Feb2025 20:12:14.128] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b68513c
+[23Feb2025 20:12:14.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FOXY_116[/127.31.122.37:42467] logged in with entity id 5822 at (266.69999998807907, 112.0, 309.40830120956633)
+[23Feb2025 20:12:14.167] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FOXY_116
+[23Feb2025 20:12:14.167] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FOXY_116
+[23Feb2025 20:12:14.168] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FOXY_116
+[23Feb2025 20:12:14.168] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FOXY_116
+[23Feb2025 20:12:14.169] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FOXY_116
+[23Feb2025 20:12:14.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FOXY_116
+[23Feb2025 20:12:14.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FOXY_116
+[23Feb2025 20:12:14.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 joined the game
+[23Feb2025 20:12:14.551] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: FOXY_116
+[23Feb2025 20:16:18.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Close Quarters]
+[23Feb2025 20:17:22.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Sweet Dreams]
+[23Feb2025 20:17:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 has made the advancement [Sweet Dreams]

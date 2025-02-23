@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-23 20:14:13 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_fence": {
     "criteria": {
       "has_dry_bundle": "2025-02-23 19:31:14 +0000",
@@ -169,6 +175,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_stairs": {
     "criteria": {
       "has_dry_bundle": "2025-02-23 19:31:14 +0000"
@@ -286,6 +304,12 @@
   "cfm:recipes/cfm/green_grill": {
     "criteria": {
       "has_iron": "2025-02-23 19:41:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:13 +0000"
     },
     "done": true
   },
@@ -409,6 +433,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_grill": {
     "criteria": {
       "has_iron": "2025-02-23 19:41:34 +0000"
@@ -468,6 +498,12 @@
   "corail_woodcutter:recipes/from_twilight_oak_planks": {
     "criteria": {
       "has_ingredient": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-23 20:14:13 +0000"
     },
     "done": true
   },
@@ -549,6 +585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:22:32 +0000"
@@ -618,6 +660,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:13 +0000"
     },
     "done": true
   },
@@ -898,6 +946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-23 20:14:13 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/copper_lantern": {
     "criteria": {
       "recipe_condition": "2025-02-23 19:46:57 +0000"
@@ -1012,6 +1066,12 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "modonomicon:modonomicon/root": {
     "criteria": {
       "modonomicon_present": "2025-02-23 19:22:32 +0000"
@@ -1039,6 +1099,12 @@
   "framedblocks:recipes/framed_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-02-23 19:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
     },
     "done": true
   },
@@ -1216,9 +1282,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/seismic_survey_tool": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:13 +0000"
     },
     "done": true
   },
@@ -1285,6 +1363,12 @@
   "alchemistry:recipes/dissolver/chain": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:41:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:13 +0000"
     },
     "done": true
   },
@@ -1372,6 +1456,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 19:41:34 +0000"
@@ -1393,6 +1483,18 @@
   "immersivepetroleum:recipes/immersiveengineering/ersatz_leather": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:12 +0000"
     },
     "done": true
   },
@@ -1586,6 +1688,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_sheet": "2025-02-23 20:14:13 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/amethyst_lantern": {
     "criteria": {
       "recipe_condition": "2025-02-23 19:46:57 +0000"
@@ -1675,6 +1783,12 @@
   "cfm:recipes/cfm/oak_desk_cabinet": {
     "criteria": {
       "has_log": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/misc/macerating/string": {
+    "criteria": {
+      "has_item": "2025-02-23 20:14:13 +0000"
     },
     "done": true
   },
@@ -1866,6 +1980,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_cushion": "2025-02-23 20:14:13 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2025-02-23 19:31:14 +0000"
@@ -1902,9 +2022,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:13 +0000"
+    },
+    "done": true
+  },
   "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2025-02-23 19:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
     },
     "done": true
   },
@@ -1935,6 +2067,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-02-23 19:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-23 20:14:13 +0000"
     },
     "done": true
   },
@@ -1992,6 +2130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/storage_control_module": {
     "criteria": {
       "ingot": "2025-02-23 19:41:35 +0000"
@@ -2016,6 +2160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:13 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/sfm/printing_press": {
     "criteria": {
       "has_iron": "2025-02-23 19:41:34 +0000"
@@ -2025,6 +2175,12 @@
   "ae2wtlib:recipes/magnet_card": {
     "criteria": {
       "has_wct": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockconstructiontape": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:12 +0000"
     },
     "done": true
   },
@@ -2112,6 +2268,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
     "criteria": {
       "ingot": "2025-02-23 19:41:34 +0000"
@@ -2163,6 +2325,12 @@
   "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
     },
     "done": true
   },
@@ -2271,6 +2439,12 @@
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2025-02-23 19:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:13 +0000"
     },
     "done": true
   },
@@ -2449,6 +2623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_nightshade_planks": {
     "criteria": {
       "has_ingredient": "2025-02-23 19:31:14 +0000"
@@ -2503,6 +2683,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-02-23 19:46:12 +0000"
@@ -2530,6 +2716,12 @@
   "alchemistry:recipes/dissolver/mossy_cobblestone_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:47:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:12 +0000"
     },
     "done": true
   },
@@ -2647,6 +2839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-02-23 19:31:33 +0000"
@@ -2656,6 +2854,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 19:41:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:12 +0000"
     },
     "done": true
   },
@@ -2704,6 +2908,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 19:41:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:12 +0000"
     },
     "done": true
   },
@@ -2846,6 +3056,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-02-23 19:31:14 +0000"
@@ -2867,6 +3083,12 @@
   "alchemistry:recipes/dissolver/cooked_porkchop": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
     },
     "done": true
   },
@@ -2996,6 +3218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-02-23 19:33:03 +0000"
@@ -3026,6 +3254,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:13 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_to_block": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:22:32 +0000"
@@ -3050,6 +3284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-02-23 19:33:03 +0000"
@@ -3059,6 +3299,12 @@
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2025-02-23 19:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
     },
     "done": true
   },
@@ -3083,6 +3329,12 @@
   "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:22:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 20:14:13 +0000"
     },
     "done": true
   },
@@ -3113,6 +3365,12 @@
   "additionallanterns:recipes/additionallanterns/prismarine_lantern": {
     "criteria": {
       "recipe_condition": "2025-02-23 19:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:12 +0000"
     },
     "done": true
   },
@@ -3296,6 +3554,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-23 19:33:03 +0000"
@@ -3371,6 +3635,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-23 19:33:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:13 +0000"
     },
     "done": true
   },
@@ -3564,6 +3834,7 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:prairie": "2025-02-23 20:14:23 +0000",
       "byg:orchard": "2025-02-23 19:34:42 +0000"
     },
     "done": false
@@ -3683,6 +3954,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt2": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:22:32 +0000"
@@ -3791,6 +4068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
       "has_iron": "2025-02-23 19:41:34 +0000"
@@ -3800,6 +4083,12 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cooked_mutton": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:14:13 +0000"
     },
     "done": true
   },
@@ -3872,6 +4161,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
     "criteria": {
       "has_porkchop": "2025-02-23 19:35:20 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-02-23 20:14:12 +0000"
     },
     "done": true
   },

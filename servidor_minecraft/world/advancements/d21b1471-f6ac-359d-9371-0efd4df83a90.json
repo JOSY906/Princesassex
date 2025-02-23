@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2025-02-23 20:10:55 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/structurize/shapetool": {
     "criteria": {
       "has_stick": "2025-02-23 18:47:21 +0000"
@@ -371,6 +377,12 @@
     },
     "done": true
   },
+  "delightful:recipes/cooking/animal_oil_bottle": {
+    "criteria": {
+      "has_animal_fat": "2025-02-23 20:11:16 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-02-23 18:46:25 +0000"
@@ -509,9 +521,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-23 20:12:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-02-23 18:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-23 20:12:28 +0000"
     },
     "done": true
   },
@@ -575,6 +599,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-02-23 20:11:19 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/weathered_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-02-23 18:43:42 +0000"
@@ -590,6 +620,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-23 18:47:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 20:12:28 +0000"
     },
     "done": true
   },
@@ -629,6 +665,12 @@
     },
     "done": true
   },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-02-23 20:11:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-23 18:52:33 +0000"
@@ -662,6 +704,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/auto_lubricator": {
     "criteria": {
       "has_the_recipe": "2025-02-23 18:43:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2025-02-23 20:10:55 +0000"
     },
     "done": true
   },
@@ -910,6 +958,12 @@
     "criteria": {
       "has_wit": "2025-02-23 18:46:25 +0000",
       "has_wct": "2025-02-23 18:46:25 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/candle_from_animal_fat": {
+    "criteria": {
+      "has_fat": "2025-02-23 20:11:16 +0000"
     },
     "done": true
   },
@@ -1563,6 +1617,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-02-23 20:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 18:46:26 +0000"
@@ -1623,6 +1683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-23 20:12:28 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-02-23 18:46:24 +0000"
@@ -1656,6 +1722,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-02-23 18:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-23 20:12:28 +0000"
     },
     "done": true
   },
@@ -1769,6 +1841,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_to_block": {
     "criteria": {
       "has_the_recipe": "2025-02-23 18:43:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-02-23 20:12:28 +0000"
     },
     "done": true
   },
@@ -1952,6 +2030,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-02-23 20:11:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-23 18:47:29 +0000"
@@ -2065,6 +2149,16 @@
       "has_the_recipe": "2025-02-23 18:49:53 +0000"
     },
     "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:allium_fields": "2025-02-23 20:10:10 +0000",
+      "byg:prairie": "2025-02-23 20:09:42 +0000",
+      "byg:orchard": "2025-02-23 20:07:20 +0000",
+      "byg:shattered_glacier": "2025-02-23 20:10:18 +0000",
+      "byg:howling_peaks": "2025-02-23 20:10:13 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
@@ -2730,6 +2824,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-23 20:06:09 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_bundle": "2025-02-23 18:46:25 +0000"
@@ -2770,6 +2870,12 @@
   "cfm:recipes/cfm/oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-02-23 18:47:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-02-23 20:11:19 +0000"
     },
     "done": true
   },
@@ -3344,6 +3450,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-23 19:26:09 +0000",
+      "minecraft:sunflower_plains": "2025-02-23 20:07:55 +0000",
       "minecraft:birch_forest": "2025-02-23 19:49:21 +0000",
       "minecraft:grove": "2025-02-23 19:43:51 +0000",
       "minecraft:jagged_peaks": "2025-02-23 19:44:02 +0000",
@@ -3387,6 +3494,12 @@
     "criteria": {
       "has_book": "2025-02-23 18:46:25 +0000",
       "has_carrot": "2025-02-23 18:46:25 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:12:28 +0000"
     },
     "done": true
   },
@@ -3441,6 +3554,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 18:46:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-02-23 20:11:11 +0000"
     },
     "done": true
   },
@@ -3884,6 +4003,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-02-23 20:12:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2025-02-23 18:52:33 +0000"
@@ -4005,9 +4130,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-02-23 20:09:59 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-02-23 18:43:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2025-02-23 20:10:55 +0000"
     },
     "done": true
   },
@@ -4572,6 +4709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-02-23 20:09:59 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2025-02-23 18:46:24 +0000"
@@ -4601,6 +4744,12 @@
       "has_sign": "2025-02-23 19:48:44 +0000"
     },
     "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "flax_seeds": "2025-02-23 20:08:42 +0000"
+    },
+    "done": false
   },
   "mcwlights:recipes/garden_light": {
     "criteria": {
