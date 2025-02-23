@@ -599,15 +599,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:oil_bucket": {
-    "criteria": {
-      "0": "2025-02-23 20:33:51 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_pork": "2025-02-23 20:23:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:oil_bucket": {
+    "criteria": {
+      "0": "2025-02-23 20:33:51 +0000"
     },
     "done": true
   },
@@ -1556,15 +1556,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-23 20:23:39 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-23 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 20:23:39 +0000"
     },
     "done": true
   },
@@ -4162,15 +4162,15 @@
     },
     "done": true
   },
-  "silentgear:recipes/silentgear/dried_sinew": {
-    "criteria": {
-      "has_item": "2025-02-23 20:20:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-23 20:20:11 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/dried_sinew": {
+    "criteria": {
+      "has_item": "2025-02-23 20:20:47 +0000"
     },
     "done": true
   },

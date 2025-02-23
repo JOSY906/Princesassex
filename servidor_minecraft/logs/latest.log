@@ -1911,3 +1911,33 @@ Repurposed Structures: Failed to create valid structure with all required pieces
 [23Feb2025 20:36:26.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FOXY_116 lost connection: Disconnected
 [23Feb2025 20:36:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 left the game
 [23Feb2025 20:37:02.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Chest Slayer]
+[23Feb2025 20:38:59.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Barrel Booty]
+[23Feb2025 20:39:29.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oyasumi_Jos lost connection: Disconnected
+[23Feb2025 20:39:29.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos left the game
+[23Feb2025 20:40:14.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Penteconter]
+[23Feb2025 20:43:59.925] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4aa42868
+[23Feb2025 20:43:59.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Oyasumi_Jos[/127.193.117.142:59353] logged in with entity id 19403 at (256.69999998807907, 29.0, -13.300000011920929)
+[23Feb2025 20:43:59.974] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Oyasumi_Jos
+[23Feb2025 20:43:59.974] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Oyasumi_Jos
+[23Feb2025 20:43:59.975] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Oyasumi_Jos
+[23Feb2025 20:43:59.975] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Oyasumi_Jos
+[23Feb2025 20:43:59.976] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Oyasumi_Jos
+[23Feb2025 20:43:59.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Oyasumi_Jos
+[23Feb2025 20:43:59.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Oyasumi_Jos
+[23Feb2025 20:44:00.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos joined the game
+[23Feb2025 20:44:00.392] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Oyasumi_Jos
+[23Feb2025 20:44:34.890] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f0e8af1
+[23Feb2025 20:44:34.932] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FOXY_116[/127.31.122.37:42397] logged in with entity id 19739 at (459.97102252585273, 66.0, 625.9447981176993)
+[23Feb2025 20:44:34.934] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FOXY_116
+[23Feb2025 20:44:34.934] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FOXY_116
+[23Feb2025 20:44:34.934] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FOXY_116
+[23Feb2025 20:44:34.934] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FOXY_116
+[23Feb2025 20:44:34.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FOXY_116
+[23Feb2025 20:44:34.937] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FOXY_116
+[23Feb2025 20:44:34.937] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FOXY_116
+[23Feb2025 20:44:35.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 joined the game
+[23Feb2025 20:44:35.228] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: FOXY_116
+[23Feb2025 20:46:17.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FOXY_116 lost connection: Disconnected
+[23Feb2025 20:46:17.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 left the game
+[23Feb2025 20:46:41.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oyasumi_Jos lost connection: Disconnected
+[23Feb2025 20:46:41.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos left the game

@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:38:34 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/macerating/ingots/iron_to_dust": {
     "criteria": {
       "has_item": "2025-02-23 19:41:34 +0000"
@@ -415,6 +421,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-02-23 20:38:59 +0000",
       "opened_chest": "2025-02-23 20:18:23 +0000"
     },
     "done": false
@@ -575,6 +582,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/gold_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-02-23 20:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-02-23 19:47:35 +0000"
@@ -707,6 +720,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/extruding/ingots/gold_to_gold_rod": {
+    "criteria": {
+      "has_item": "2025-02-23 20:37:57 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/compactor": {
     "criteria": {
       "has_item": "2025-02-23 19:41:35 +0000"
@@ -734,6 +753,12 @@
   "alltheores:recipes/alltheores/iron_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-02-23 19:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:58 +0000"
     },
     "done": true
   },
@@ -833,6 +858,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/gold_block": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:37:58 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:22:32 +0000"
@@ -863,6 +894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:57 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/emerald_from_shards": {
     "criteria": {
       "has_item": "2025-02-23 20:18:59 +0000"
@@ -878,6 +915,12 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:57 +0000"
     },
     "done": true
   },
@@ -1085,6 +1128,12 @@
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-02-23 20:40:14 +0000"
     },
     "done": true
   },
@@ -1424,6 +1473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-02-23 19:31:14 +0000"
@@ -1551,6 +1606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-02-23 20:14:13 +0000"
@@ -1674,6 +1735,12 @@
   "corail_woodcutter:recipes/from_byg_baobab_planks": {
     "criteria": {
       "has_ingredient": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:58 +0000"
     },
     "done": true
   },
@@ -1880,9 +1947,21 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-02-23 20:38:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_log": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:57 +0000"
     },
     "done": true
   },
@@ -1907,6 +1986,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-02-23 19:31:33 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/gold_chain": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 20:37:57 +0000"
     },
     "done": true
   },
@@ -2042,6 +2127,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/misc/macerating/bone_meal": {
+    "criteria": {
+      "has_item": "2025-02-23 20:38:34 +0000"
+    },
+    "done": true
+  },
   "rechiseled:recipes/rechiseled/chisel": {
     "criteria": {
       "recipe_condition": "2025-02-23 19:41:34 +0000"
@@ -2123,6 +2214,12 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:57 +0000"
     },
     "done": true
   },
@@ -2224,9 +2321,11 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:allium_fields": "2025-02-23 20:38:44 +0000",
       "byg:prairie": "2025-02-23 20:14:23 +0000",
       "byg:orchard": "2025-02-23 19:34:42 +0000",
-      "byg:shattered_glacier": "2025-02-23 20:16:55 +0000"
+      "byg:shattered_glacier": "2025-02-23 20:16:55 +0000",
+      "byg:howling_peaks": "2025-02-23 20:38:47 +0000"
     },
     "done": false
   },
@@ -2581,6 +2680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:58 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-02-23 19:33:02 +0000"
@@ -2602,6 +2707,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-23 20:18:29 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/ingots/gold_to_gold_rod": {
+    "criteria": {
+      "has_item": "2025-02-23 20:37:58 +0000"
     },
     "done": true
   },
@@ -2847,6 +2958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:58 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:22:32 +0000"
@@ -3030,6 +3147,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/gold_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-02-23 20:37:57 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/iron_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-02-23 19:41:34 +0000"
@@ -3102,6 +3225,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/gold_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-02-23 20:37:58 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/orange_sapling": {
     "criteria": {
       "has_orange": "2025-02-23 19:31:32 +0000"
@@ -3135,6 +3264,12 @@
   "silentgear:recipes/silentgear/emerald_shard": {
     "criteria": {
       "has_item": "2025-02-23 20:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:58 +0000"
     },
     "done": true
   },
@@ -3213,6 +3348,12 @@
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/gold_wire": {
+    "criteria": {
+      "has_item": "2025-02-23 20:37:57 +0000"
     },
     "done": true
   },
@@ -3315,6 +3456,18 @@
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-23 20:38:34 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/utilitix/gilding_crystal": {
+    "criteria": {
+      "criterion0": "2025-02-23 20:37:57 +0000"
     },
     "done": true
   },
@@ -3477,6 +3630,12 @@
       "minecraft:plains": "2025-02-23 19:22:33 +0000"
     },
     "done": false
+  },
+  "ftbic:recipes/ftbic/rolling/ingots/gold_to_gold_plate": {
+    "criteria": {
+      "has_item": "2025-02-23 20:37:57 +0000"
+    },
+    "done": true
   },
   "travelanchors:recipes/travelanchors/travel_staff": {
     "criteria": {
@@ -3695,6 +3854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:58 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_embur_planks": {
     "criteria": {
       "has_ingredient": "2025-02-23 19:31:14 +0000"
@@ -3891,6 +4056,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-02-23 19:33:38 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-02-23 20:37:58 +0000"
     },
     "done": true
   },
@@ -4304,6 +4475,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/gold_nugget": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:37:57 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:22:32 +0000"
@@ -4394,6 +4571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:58 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:22:32 +0000"
@@ -4415,6 +4598,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-23 19:47:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-02-23 20:38:34 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/golden_apple": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:37:58 +0000"
     },
     "done": true
   },
@@ -4457,6 +4652,12 @@
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/ingots/gold_to_dust": {
+    "criteria": {
+      "has_item": "2025-02-23 20:37:57 +0000"
     },
     "done": true
   },
@@ -4762,9 +4963,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-23 20:16:57 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/ingots/gold_to_gold_gear": {
+    "criteria": {
+      "has_item": "2025-02-23 20:37:57 +0000"
     },
     "done": true
   },
@@ -4777,6 +4990,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_reinforced_r": {
     "criteria": {
       "has_aluminum_ingot": "2025-02-23 19:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:57 +0000"
     },
     "done": true
   },
