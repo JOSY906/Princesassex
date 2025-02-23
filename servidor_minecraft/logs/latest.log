@@ -2065,3 +2065,30 @@ Repurposed Structures: Failed to create valid structure with all required pieces
 [23Feb2025 21:18:47.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JkO
 [23Feb2025 21:18:47.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO joined the game
 [23Feb2025 21:18:47.232] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: JkO
+[23Feb2025 21:20:55.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Ambush]
+[23Feb2025 21:21:01.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JkO> xdddd
+[23Feb2025 21:21:03.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JkO> xxx
+[23Feb2025 21:22:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has reached the goal [This Belongs in a Museum]
+[23Feb2025 21:23:09.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Penteconter]
+[23Feb2025 21:23:19.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Cover Me with Diamonds]
+[23Feb2025 21:23:52.827] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73322d15
+[23Feb2025 21:23:52.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FOXY_116[/127.31.122.37:56027] logged in with entity id 35206 at (324.28940764376233, 98.28549238931866, 351.19603322198526)
+[23Feb2025 21:23:52.866] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to FOXY_116
+[23Feb2025 21:23:52.866] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to FOXY_116
+[23Feb2025 21:23:52.866] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to FOXY_116
+[23Feb2025 21:23:52.866] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to FOXY_116
+[23Feb2025 21:23:52.867] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to FOXY_116
+[23Feb2025 21:23:52.869] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to FOXY_116
+[23Feb2025 21:23:52.869] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to FOXY_116
+[23Feb2025 21:23:52.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FOXY_116 joined the game
+[23Feb2025 21:23:53.091] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: FOXY_116
+[23Feb2025 21:25:08.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Feb2025 21:25:47.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JkO has made the advancement [Sneak 100]
+[23Feb2025 21:25:54.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JkO moved too quickly! -9.59852615867402,1.7531999805212024,3.232498152123469
+[23Feb2025 21:26:04.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[23Feb2025 21:26:17.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Barrel Booty]
+[23Feb2025 21:26:26.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Feb2025 21:26:54.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2173ms or 43 ticks behind
+[23Feb2025 21:27:27.384] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Cheese E Piloza the Magical'/37135, l='ServerLevel[world]', x=256.73, y=-45.00, z=-118.60] died: Cheese E Piloza the Magical was slain by Oyasumi_Jos
+[23Feb2025 21:27:33.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has completed the challenge [He Wasn't So Strong]
+[23Feb2025 21:28:03.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Oyasumi_Jos has made the advancement [Magic Writing]

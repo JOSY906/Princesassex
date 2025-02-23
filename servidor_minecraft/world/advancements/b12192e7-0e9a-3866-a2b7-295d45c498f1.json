@@ -1401,15 +1401,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_kitchen_drawer": {
-    "criteria": {
-      "has_chest": "2025-02-23 20:57:55 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-02-23 20:46:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-02-23 20:57:55 +0000"
     },
     "done": true
   },
@@ -1617,15 +1617,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/burrito": {
-    "criteria": {
-      "has_the_recipe": "2025-02-23 20:20:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 20:20:55 +0000"
     },
     "done": true
   },
@@ -1900,15 +1900,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-23 20:37:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-02-23 20:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-23 20:37:58 +0000"
     },
     "done": true
   },
@@ -2277,21 +2277,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-23 20:37:57 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/croptopia.croptopia/apple_pie": {
     "criteria": {
       "has_apple": "2025-02-23 20:30:07 +0000"
     },
     "done": true
   },
-  "cfm:recipes/cfm/lime_cooler": {
+  "minecraft:recipes/combat/golden_boots": {
     "criteria": {
-      "has_chest": "2025-02-23 20:57:55 +0000"
+      "has_gold_ingot": "2025-02-23 20:37:57 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2025-02-23 20:16:57 +0000"
     },
     "done": true
   },
@@ -2301,9 +2301,9 @@
     },
     "done": true
   },
-  "undergarden:recipes/undergarden_group/wigglewood_boat": {
+  "cfm:recipes/cfm/lime_cooler": {
     "criteria": {
-      "in_water": "2025-02-23 20:16:57 +0000"
+      "has_chest": "2025-02-23 20:57:55 +0000"
     },
     "done": true
   },
@@ -3268,15 +3268,15 @@
     },
     "done": true
   },
-  "silentgear:recipes/silentgear/dried_sinew": {
-    "criteria": {
-      "has_item": "2025-02-23 20:47:32 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-23 20:46:03 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/dried_sinew": {
+    "criteria": {
+      "has_item": "2025-02-23 20:47:32 +0000"
     },
     "done": true
   },
@@ -3805,15 +3805,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-02-23 20:46:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-02-23 20:46:03 +0000"
     },
     "done": true
   },
@@ -4117,15 +4117,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_wool": {
-    "criteria": {
-      "has_white_wool": "2025-02-23 20:14:13 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-02-23 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-23 20:14:13 +0000"
     },
     "done": true
   },
@@ -5182,15 +5182,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_mangrove_mail_box": {
-    "criteria": {
-      "has_chest": "2025-02-23 20:57:55 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/croptopia.croptopia/toast_from_bread": {
     "criteria": {
       "has_bread": "2025-02-23 20:18:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2025-02-23 20:57:55 +0000"
     },
     "done": true
   },
@@ -5845,15 +5845,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/pink_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-02-23 20:46:03 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/croptopia.croptopia/apple_sapling": {
     "criteria": {
       "has_apple": "2025-02-23 20:30:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-02-23 20:46:03 +0000"
     },
     "done": true
   },
