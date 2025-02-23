@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "dimstorage:recipes/dimstorage_tab/dim_wall": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-23 22:25:54 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-02-23 21:40:27 +0000"
@@ -413,6 +419,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/string": {
+    "criteria": {
+      "has_chelicerae": "2025-02-23 22:24:50 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/combiner": {
     "criteria": {
       "has_item": "2025-02-23 19:41:34 +0000"
@@ -614,6 +626,12 @@
   "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-23 19:33:03 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-02-23 22:18:36 +0000"
     },
     "done": true
   },
@@ -1447,6 +1465,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/macerating/ender_dust": {
+    "criteria": {
+      "has_item": "2025-02-23 22:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-23 21:26:56 +0000"
@@ -1693,6 +1717,12 @@
   "rftoolsbase:recipes/rftoolsbase/smartwrench": {
     "criteria": {
       "iron": "2025-02-23 19:41:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-02-23 22:17:31 +0000"
     },
     "done": true
   },
@@ -1945,6 +1975,12 @@
   "appmek:recipes/appmek/chemical_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-02-23 21:26:54 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/allthemodium/teleport_pad": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-23 22:25:54 +0000"
     },
     "done": true
   },
@@ -2209,6 +2245,18 @@
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
       "has_the_recipe": "2025-02-23 19:22:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-02-23 22:16:36 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/decorations/block": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 22:25:55 +0000"
     },
     "done": true
   },
@@ -2543,6 +2591,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/food/uncrafting/spider_eye": {
+    "criteria": {
+      "has_chelicerae": "2025-02-23 22:24:50 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/diamond_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-02-23 21:44:54 +0000"
@@ -2819,6 +2873,12 @@
     },
     "done": true
   },
+  "wirelesschargers:recipes/wirelesschargers/basic_wireless_player_charger": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 22:25:54 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-02-23 19:31:14 +0000"
@@ -3064,9 +3124,21 @@
     },
     "done": true
   },
+  "allthetweaks:recipes/allthetweaks/ender_pearl_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-23 22:25:54 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-02-23 19:41:35 +0000"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/decorations/basic_collector": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 22:25:54 +0000"
     },
     "done": true
   },
@@ -3676,6 +3748,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_upgrade": {
+    "criteria": {
+      "pearl": "2025-02-23 22:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-02-23 21:28:45 +0000"
@@ -3691,6 +3769,12 @@
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
       "has_iron": "2025-02-23 19:41:34 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/misc/item": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 22:25:55 +0000"
     },
     "done": true
   },
@@ -3945,6 +4029,12 @@
     "criteria": {
       "has_recipe": "2025-02-23 19:31:14 +0000",
       "has_compass": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2025-02-23 22:25:54 +0000"
     },
     "done": true
   },
@@ -4508,6 +4598,12 @@
     },
     "done": true
   },
+  "shrink:recipes/shrink/shrinking_device": {
+    "criteria": {
+      "has_enderpearls": "2025-02-23 22:25:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-02-23 20:46:03 +0000"
@@ -4761,9 +4857,12 @@
       "minecraft:vindicator": "2025-02-23 20:52:25 +0000",
       "minecraft:spider": "2025-02-23 19:46:03 +0000",
       "minecraft:creeper": "2025-02-23 21:56:30 +0000",
+      "quark:forgotten": "2025-02-23 22:21:09 +0000",
+      "minecraft:witch": "2025-02-23 22:16:06 +0000",
       "minecraft:husk": "2025-02-23 20:34:47 +0000",
       "minecraft:cave_spider": "2025-02-23 21:38:58 +0000",
       "minecraft:stray": "2025-02-23 20:55:19 +0000",
+      "minecraft:enderman": "2025-02-23 22:25:47 +0000",
       "minecraft:zombie": "2025-02-23 20:30:36 +0000",
       "minecraft:zombie_villager": "2025-02-23 20:55:42 +0000"
     },
@@ -5577,6 +5676,12 @@
   "corail_woodcutter:recipes/from_byg_sythian_planks": {
     "criteria": {
       "has_ingredient": "2025-02-23 19:31:14 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-02-23 22:21:17 +0000"
     },
     "done": true
   },
@@ -7169,6 +7274,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/spider": {
+    "criteria": {
+      "has_chelicerae": "2025-02-23 22:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-23 19:47:32 +0000"
@@ -7531,6 +7642,12 @@
     },
     "done": true
   },
+  "wirelesschargers:recipes/wirelesschargers/basic_wireless_block_charger": {
+    "criteria": {
+      "recipe_condition": "2025-02-23 22:25:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-02-23 20:14:12 +0000"
@@ -7756,6 +7873,12 @@
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-02-23 20:46:03 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_fragments/cave_spider": {
+    "criteria": {
+      "has_chelicerae": "2025-02-23 22:24:50 +0000"
     },
     "done": true
   },
